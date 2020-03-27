@@ -14,5 +14,9 @@ navbar:
       href: http://github.com/<nevilleq>/
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/quinton-neville/
+    - text: "CV"
+      menu:
+          - text: "CV"
+            href: cv.html
 output:
   html_document
